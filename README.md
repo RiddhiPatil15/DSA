@@ -5,15 +5,15 @@ The goal of this repository is to practice and master different DSA concepts whi
 ## Overview
 This repository includes a variety of DSA topics, ranging from fundamental concepts to more advanced algorithms. Some of the topics covered are:
 
-Arrays & Strings
-Linked Lists
-Stacks and Queues
-Trees (Binary Tree, AVL Tree, Binary Search Tree)
-Graph Algorithms (DFS, BFS, Dijkstra, etc.)
-Sorting Algorithms (QuickSort, MergeSort, BubbleSort, etc.)
-Searching Algorithms (Binary Search, Linear Search)
-Dynamic Programming
-Greedy Algorithms
-Backtracking
-Recursion
-Hashing
+* Arrays & Strings
+* Linked Lists
+* Stacks and Queues
+* Trees (Binary Tree, AVL Tree, Binary Search Tree)
+* Graph Algorithms (DFS, BFS, Dijkstra, etc.)
+* Sorting Algorithms (QuickSort, MergeSort, BubbleSort, etc.)
+* Searching Algorithms (Binary Search, Linear Search)
+* Dynamic Programming
+* Greedy Algorithms
+* Backtracking
+* Recursion
+* Hashing
