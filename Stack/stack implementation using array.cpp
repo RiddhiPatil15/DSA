@@ -41,6 +41,10 @@ public:
         bool isEmpty(){
                 return top < 0;
         }
+	bool isFull(){
+		if(top == cap-1) return true;
+		return false;
+	}
 };
 
 int main() {
